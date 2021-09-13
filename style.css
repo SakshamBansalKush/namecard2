@@ -1,0 +1,12 @@
+body{
+    background-color: darkcyan;
+    text-align: center;
+}
+div{
+    background-color: chartreuse;
+    width: 500px;
+    margin: auto;
+    border: solid black;
+    border-radius: 20px;
+    border-width: 0.25cm;
+}
